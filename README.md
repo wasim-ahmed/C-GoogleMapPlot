@@ -35,7 +35,7 @@ Software component:
 1. Web socket C++ application @ https://github.com/mnisjk/cppWebSockets
 2. Web socket C++ application requires syslog obtained @ https://github.com/secure-endpoints/syslog-win32
 3. Web socket requires wolfssl which is obtained @  https://www.wolfssl.com/
-4. Web Socket binaries are obtained from @ https://ci.appveyor.com/project/lws-team/libwebsockets
+4. Web Socket binaries are obtained from @ https://ci.appveyor.com/project/lws-team/libwebsockets . For official website @ https://libwebsockets.org/ 
 5. Mongoose Web Server from @ https://cesanta.com/
 
 
