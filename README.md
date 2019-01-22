@@ -18,7 +18,7 @@ SetUp
 	to HTML file (web socket Client) where these coordinates are plotted on to Google map. To make changes in this C++ application edit "echoServer.cpp" and 
 	build it using make.
 	
-4. The communication between Web socket Client & Server is request response. That is Client will request the data & server will reply with coordinates.
+4. The communication between Web socket Client & Server is request response. That is Client will request the data @ 1Hz & server will reply with coordinates.
   
 	
 Execution
